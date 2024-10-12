@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std; //masarap aq
-
+/* apakasarap ni brylle so much */
 // An iterative binary search function
 int binarySearch(int arr[], int low, int high, int x)
 {
